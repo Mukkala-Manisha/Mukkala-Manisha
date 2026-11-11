@@ -6,10 +6,10 @@
 =========================================================
 -->
 
-<div align="center">
+<! ---<div align="center">
 
 <!-- Personalized header banner -->
-<img src="./banner.png" alt="Mukkala Manisha banner" width="100%" />
+<img src="" /> --->
 
 <br/><br/>
 
